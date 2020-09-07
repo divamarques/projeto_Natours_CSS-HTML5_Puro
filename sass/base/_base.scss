@@ -1,0 +1,23 @@
+// Partial file
+
+/* Reset Básico (Browser) */
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+
+/* Fim Reset Básico (Browser) */
+
+html {
+    // Define o valor de 1rem
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
